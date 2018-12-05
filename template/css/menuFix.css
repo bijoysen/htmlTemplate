@@ -1,0 +1,13 @@
+/*.wrap_header_mobile {
+	display: none !important;
+}
+@media (max-width: 991px) {
+	.container-menu-header-v3, .container-menu-header-v2, .container-menu-header {
+	    display: block;
+	    position: relative;
+	}
+	.topbar-child1 { display: none; }
+	.wrap_header {
+		display: block;
+	}
+}*/
