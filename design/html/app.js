@@ -1,5 +1,7 @@
 jQuery(document).ready(function($) {
 	$('.screen').slick({
-		autoplay: true
+		autoplay: true,
+		arrows: false,
+		dots: true
 	});
 });
