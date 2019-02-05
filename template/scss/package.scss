@@ -132,3 +132,14 @@
     column-count: 3;
   }
 }
+
+.demoR {
+  .textCol {
+    display: flex;
+    background-color: #f3f3f3;
+    padding: 40px;
+    .textcolWrap {
+      align-self: center;
+    }
+  }
+}
